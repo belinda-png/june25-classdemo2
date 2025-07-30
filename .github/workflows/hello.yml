@@ -4,5 +4,5 @@ jobs:
   say-hello:
     runs-on: ubuntu-latest
     stpes:
-      name: hello world
+      -name: hello world
       run: echo "Hello, World!"
